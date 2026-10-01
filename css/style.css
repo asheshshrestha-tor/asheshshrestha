@@ -437,7 +437,7 @@ body.has-cursor, body.has-cursor a, body.has-cursor button { cursor: none; }
   color: transparent;
   padding-right: 0.07em;
 }
-.monogram__photo { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; border-radius: inherit; }
+.monogram__photo { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; border-radius: inherit; object-position: 58% 32%; }
 .monogram__chips { position: absolute; inset: 0; pointer-events: none; }
 .monogram__chip {
   position: absolute;
