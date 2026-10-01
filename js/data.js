@@ -7,7 +7,7 @@
 window.SITE = {
   name: "Ashesh Shrestha",
   initials: "AS",
-  eyebrow: "Hello, I'm Ashesh",
+  eyebrow: "Hi, I'm Ashesh Shrestha — Software Developer",
 
   // Words wrapped in *asterisks* get the gradient highlight.
   headline: [
@@ -17,6 +17,7 @@ window.SITE = {
 
   // Cycled by the typewriter under the headline.
   rotatingRoles: [
+    "Software Developer",
     "Full-Stack Web Developer",
     "Backend & API Engineer",
     "AI Integration Builder",
@@ -24,7 +25,7 @@ window.SITE = {
   ],
 
   subtitle:
-    "Full-stack web developer with 6+ years of experience turning legacy platforms into fast, modern, cloud-ready products — from background job pipelines to pixel-perfect UI.",
+    "Software developer and full-stack web developer with 6+ years of experience turning legacy platforms into fast, modern, cloud-ready products — from background job pipelines to pixel-perfect UI.",
 
   // Small floating chips that orbit the monogram in the hero.
   floatingChips: ["FastAPI", "AWS", "MySQL", "Redis", "JavaScript"],
@@ -43,7 +44,7 @@ window.SITE = {
   about: {
     // Text wrapped in **double asterisks** is rendered bold.
     paragraphs: [
-      "I'm **Ashesh Shrestha**, a full-stack web developer with 6+ years of professional experience building and refactoring complex web applications. I specialise in bridging the gap between legacy systems and modern, scalable cloud infrastructure.",
+      "I'm **Ashesh Shrestha**, a software developer and full-stack web developer from Nepal with 6+ years of professional experience building and refactoring complex web applications. I specialise in bridging the gap between legacy systems and modern, scalable cloud infrastructure.",
       "Whether it's orchestrating **background task processing**, securing **API and webhook integrations**, or designing custom, visually engaging UI components, I deliver work that is highly functional and thoughtfully designed.",
       "Lately my focus has been on **AI-powered tooling**, payment reconciliation systems, and platform modernization — the unglamorous, high-impact work that keeps products fast and reliable."
     ],

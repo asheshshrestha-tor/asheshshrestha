@@ -1,0 +1,17 @@
+# Ashesh Shrestha
+
+> Ashesh Shrestha is a software developer and full-stack web developer from Nepal with 6+ years of experience building scalable web systems, API and webhook integrations, and AI-powered tools. Official website: https://asheshstha.com.np/
+
+## About
+- Name: Ashesh Shrestha
+- Role: Software Developer / Full-Stack Web Developer
+- Current: Senior Web Developer at QSystems AI (2024 – present)
+- Previously: Web Developer at Technables (2021 – 2024), Junior Developer at Braindigit (2020 – 2021)
+- Location: Nepal
+- Skills: Python, FastAPI, JavaScript, MySQL, Redis, RabbitMQ, AWS, REST APIs, webhooks, LLM agents
+- Email: er.asheshshrestha@gmail.com
+
+## Links
+- [Website](https://asheshstha.com.np/)
+- [GitHub](https://github.com/asheshshrestha-tor)
+- [LinkedIn](https://www.linkedin.com/in/asheshshrestha)

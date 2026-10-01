@@ -302,6 +302,7 @@ body.has-cursor, body.has-cursor a, body.has-cursor button { cursor: none; }
 .hero__grid { display: grid; grid-template-columns: 1.25fr 0.75fr; gap: 3rem; align-items: center; }
 .hero__eyebrow {
   font-family: var(--font-mono);
+  font-weight: 400;
   color: var(--accent);
   font-size: 0.85rem;
   letter-spacing: 0.14em;
@@ -436,6 +437,7 @@ body.has-cursor, body.has-cursor a, body.has-cursor button { cursor: none; }
   color: transparent;
   padding-right: 0.07em;
 }
+.monogram__photo { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; border-radius: inherit; }
 .monogram__chips { position: absolute; inset: 0; pointer-events: none; }
 .monogram__chip {
   position: absolute;
